@@ -1,0 +1,69 @@
+📄 MY LOCATION APP
+Java Full Stack Project Report
+
+Author: Lourdu Monisha
+Course: Java Full Stack Internship
+Date: April 2026
+
+📑 INDEX
+Abstract
+Introduction
+Objectives
+Technologies Used
+Modules
+System Architecture
+Advantages
+Future Scope
+Internship Diary
+Conclusion
+📘 1. Abstract
+
+This project presents a location-based web application developed using Java Full Stack technologies. The application detects the user’s real-time location and displays nearby services such as hospitals, restaurants, and ATMs using map integration. MongoDB is used for storing user and location data.
+
+📘 2. Introduction
+
+Location-based services play an important role in modern applications such as navigation, ride-sharing, and delivery services. This project demonstrates how GPS-based location tracking can be integrated into a web application using Java technologies.
+
+🎯 3. Objectives
+Detect user location using GPS
+Display current location on a map
+Store location data in MongoDB
+Provide nearby services
+Create a user-friendly interface
+💻 4. Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: Java Servlets
+Database: MongoDB
+Server: Apache Tomcat
+APIs: Geolocation API, Map API
+🧩 5. Modules
+🔐 User Authentication
+Login and Registration system
+📍 Location Detection
+Fetch user location using browser GPS
+🗺️ Map Integration
+Display location using map services
+💾 Database Storage
+Store user and location data in MongoDB
+🏗️ 6. System Architecture
+
+The system follows a client-server architecture:
+
+The frontend collects user input and location data
+The backend (Java Servlets) processes requests
+MongoDB stores user and location information
+External APIs provide map and GPS services
+✅ 7. Advantages
+Real-time location tracking
+Simple and easy-to-use interface
+Efficient data storage
+Scalable for future enhancements
+🔮 8. Future Scope
+Live location tracking
+Route navigation system
+Mobile application version
+Integration with real-time traffic data
+Started project planning and selected the topic “My Location App”.
+
+
+
